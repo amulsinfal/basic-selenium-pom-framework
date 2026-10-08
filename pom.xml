@@ -6,7 +6,7 @@
 	<artifactId>Selenium-Automation-Framework-POM</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<project.build.sourceEncodeing>UTF-8</project.build.sourceEncodeing>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>21</maven.compiler.source>
 		<maven.compiler.target>21</maven.compiler.target>
 	</properties>
