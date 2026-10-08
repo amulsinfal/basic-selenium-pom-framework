@@ -4,7 +4,7 @@ A clean and simple UI automation testing project built using **Java**, **Seleniu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Java v21.0.11
 - **Automation Tool:** Selenium WebDriver v4.50.0
 - **Test Runner:** TestNG v7.12
