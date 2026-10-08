@@ -13,13 +13,13 @@ A clean and simple UI automation testing project built using **Java**, **Seleniu
 
 ---
 
-## 📁 Project Structure  
+## Project Structure  
 
 <img width="558" height="500" alt="image" src="https://github.com/user-attachments/assets/2c423a24-55fe-4c56-a805-41bce39d6b3d" />
 
 ---
 
-## 🏗️ Framework Design
+## Framework Design
 This project uses the **Page Object Model (POM)** design pattern. It separates test logic from page design to make the code maintainable and reusable:
 - **Pages Class Layer:** 'LoginPage' and 'ProductsPage' hold the element locators and interaction methods.
 
@@ -38,7 +38,7 @@ This project uses the **Page Object Model (POM)** design pattern. It separates t
 
 ---
 
-## 📄 Dependency Management (pom.xml)
+## Dependency Management (pom.xml)
 The framework uses Maven to manage core testing dependencies.  
 
 <img width="940" height="616" alt="image" src="https://github.com/user-attachments/assets/d9815ff7-93e4-40bc-baef-c9efb63048f8" />
@@ -49,7 +49,7 @@ The framework uses Maven to manage core testing dependencies.
 
 ---
 
-## 🧪 Automated Test Scenarios
+## Automated Test Scenarios
 
 1. **Login Testcases ('LoginTest')**
    - Verifies successful login with valid credentials.
@@ -63,14 +63,14 @@ The framework uses Maven to manage core testing dependencies.
 
 ---
 
-## ⚙️ Test Runner Suite (testng.xml)
+## Test Runner Suite (testng.xml)
 This file is used to run the automated tests together in a sequence.  
 
 <img width="1058" height="348" alt="image" src="https://github.com/user-attachments/assets/ae894fff-4df2-4f7f-9b37-285560e140c8" />
 
 ---
 
-## 🚀 How to Run the Tests
+## How to Run the Tests
 
 ### Prerequisites
 1. **Java Development Kit (JDK)**.
